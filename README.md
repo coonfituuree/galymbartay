@@ -1,2 +1,1 @@
-# galymbartay
-me, myself and I
+<h1 align="center">Galym Bartay</h1>
